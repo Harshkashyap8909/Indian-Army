@@ -1,4 +1,4 @@
 # Indian-Army
-This is My First repositery
+This is My First repository
 <br>
 This Is Harsh kashyap
